@@ -11,7 +11,7 @@
     "pkg-macos": "pkg . --targets node10-macos-x64 --out-dir pkg"
   },
   "dependencies": {
-    "next": "9.4.2",
+    "next": "^9.3.6",
     "pkg": "^4.4.8",
     "react": "16.13.1",
     "react-dom": "16.13.1"
